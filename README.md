@@ -15,8 +15,8 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
     </td>
     <td>
-      <!-- Gráfico de Contribuições -->
-      <img src="https://github-contribution-stats.vercel.app/api/v1/username?username=dropeo&theme=tokyonight" alt="Contributions Graph">
+      <!-- Gráfico de Atividade -->
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dropeo&theme=tokyonight" alt="GitHub Activity">
     </td>
   </tr>
 </table>
