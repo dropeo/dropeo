@@ -7,13 +7,17 @@
 
 <br>
 
-<!-- Gráfico de Linguagens -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
-
-<br>
-
-<!-- Gráfico de Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dropeo&theme=tokyonight" alt="GitHub Streak">
+<!-- Tabela para exibir os gráficos lado a lado -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=dropeo&theme=tokyonight" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
 
 <!-- Forçar atualização -->
 <!-- Atualizado: 2025-02-25 -->
