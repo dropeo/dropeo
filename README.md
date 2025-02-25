@@ -13,7 +13,7 @@
 <br>
 
 <!-- Gráfico de Streak -->
-<img src="https://streak-stats.demolab.com?user=dropeo&theme=tokyonight" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dropeo&theme=tokyonight" alt="GitHub Streak">
 
 <!-- Forçar atualização -->
 <!-- Atualizado: 2025-02-25 -->
