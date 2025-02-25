@@ -7,8 +7,14 @@
 
 <br>
 
-<!-- Gráfico de Linguagens Compacto -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
-
-<!-- Gráfico de Streak (Dias de Contribuição) -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dropeo&theme=tokyonight" alt="GitHub Streak">
+<!-- Tabela para organizar os gráficos lado a lado -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dropeo&theme=tokyonight" alt="GitHub Streak">
+    </td>
+  </tr>
+</table>
