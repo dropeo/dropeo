@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td>
-      <!-- Gráfico de Linguagens -->
+      <!-- Gráfico de Linguagens  -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
     </td>
   </tr>
