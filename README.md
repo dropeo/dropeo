@@ -4,4 +4,7 @@
     <img alt="Pedro Oliveira GitHub Profile README" src="https://raw.githubusercontent.com/dropeo/dropeo/main/light_mode.svg">
   </picture>
 </a>
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=dark)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=dark" alt="Linguagens Mais Usadas">
