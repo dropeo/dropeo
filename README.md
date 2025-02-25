@@ -7,16 +7,12 @@
 
 <br>
 
-<!-- Tabela para exibir os gráficos lado a lado -->
+<!-- Tabela para exibir o gráfico de linguagens -->
 <table>
   <tr>
     <td>
       <!-- Gráfico de Linguagens -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
-    </td>
-    <td>
-      <!-- Gráfico de Contribuições -->
-      <img src="https://github-contribution-stats.vercel.app/api/v1/username?username=dropeo&theme=tokyonight" alt="Contributions Graph">
     </td>
   </tr>
 </table>
