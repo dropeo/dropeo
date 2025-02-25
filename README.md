@@ -7,11 +7,8 @@
 
 <br>
 
-<!-- Gráfico de Linguagens (Pizza) -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dropeo&theme=tokyonight" alt="Linguagens Mais Usadas">
+<!-- Gráfico de Linguagens Compacto -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
 
 <!-- Gráfico de Streak (Dias de Contribuição) -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dropeo&theme=tokyonight" alt="GitHub Streak">
-
-<!-- Gráfico de Atividade (Linha do Tempo) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dropeo&theme=tokyo-night" alt="Gráfico de Atividade">
