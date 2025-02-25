@@ -14,7 +14,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dropeo&layout=compact&langs_count=6&theme=tokyonight&title=SKILLS" alt="SKILLS">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dropeo&theme=tokyonight" alt="GitHub Streak">
+      <img src="https://streak-stats.demolab.com?user=dropeo&theme=tokyonight" alt="GitHub Streak">
     </td>
   </tr>
 </table>
